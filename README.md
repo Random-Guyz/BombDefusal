@@ -20,11 +20,15 @@ Development Process: The game was developed using Python programming language wi
 
 System Requirements:
 
-1.Operating System: Windows, macOS, Linux 2.Python Installed: Python 3.x 3.Screen Size: 15.6 inches or larger for desktop or laptop 4.Pygame Library: Pygame must be installed to run the game.
+1.Operating System: Windows, macOS, Linux
+2.Python Installed: Python 
+3.x 3.Screen Size: 15.6 inches or larger for desktop or laptop 4.Pygame Library: Pygame must be installed to run the game.
 
 Running the Game:
 
-1.Open the folder containing the Bomb Defusal Game files. 2.Locate the file named "Bomb_Defusal_game.py". 3.Run the game by double-clicking on "Bomb_Defusal_game.py" or "Bomb_Defusal_game.exe" or executing it through the terminal/command prompt using the following command:
+1.Open the folder containing the Bomb Defusal Game files.
+2.Locate the file named "Bomb_Defusal_game.py".
+3.Run the game by double-clicking on "Bomb_Defusal_game.py" or "Bomb_Defusal_game.exe" or executing it through the terminal/command prompt using the following command:
 
 Future Enhancements:
 
