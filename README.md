@@ -40,3 +40,5 @@ Online Multiplayer: Implement online multiplayer functionality to allow players 
 Conclusion: "Bomb Defusal Game" offers an exciting multiplayer experience that challenges players' teamwork and communication skills in a high-stakes environment. Whether playing with friends or strangers, the game provides an immersive and adrenaline-pumping experience that keeps players coming back for more.
 
 Note: This project is for entertainment purposes only and does not endorse or encourage real-life bomb defusal activities. Safety first!
+
+- Project Lead: [Nitesh Raut](https://github.com/Nitu24)
