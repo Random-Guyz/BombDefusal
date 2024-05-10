@@ -1,6 +1,6 @@
 Project Title: Bomb Defusal Game
 
-Domain: Software Development
+Domain: Game Development
 
 Description: "Bomb Defusal Game" is an engaging multiplayer experience designed to test teamwork and communication skills under pressure. In this game, one player takes on the role of the bomb defuser, while the other players act as instructors, providing instructions to defuse the bomb and prevent explosions.
 
