@@ -22,7 +22,8 @@ System Requirements:
 
 1.Operating System: Windows, macOS, Linux
 2.Python Installed: Python 
-3.x 3.Screen Size: 15.6 inches or larger for desktop or laptop 4.Pygame Library: Pygame must be installed to run the game.
+3.x 3.Screen Size: 15.6 inches or larger for desktop or laptop
+4.Pygame Library: Pygame must be installed to run the game.
 
 Running the Game:
 
